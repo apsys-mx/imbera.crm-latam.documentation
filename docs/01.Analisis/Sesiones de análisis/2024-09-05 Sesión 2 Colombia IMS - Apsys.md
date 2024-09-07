@@ -1,4 +1,4 @@
-# Sesión 2 Colombia IMS - Apsys
+# Sesión 2 Colombia IMS - Apsys - 2024-09-05
 
 <iframe src="https://share.fireflies.ai/embed/meetings/0yZsL737bYPXazog" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
